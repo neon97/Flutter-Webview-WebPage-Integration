@@ -12,25 +12,29 @@ Just make a Check to the pubspec.yaml file what Packages you have to import.....
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563277085.png?raw=true"  width="200" >
 </img>
 
-
+<br>
 
 <h3>Well if this problem occur's....</h3>
 <br>
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563276469.png?raw=true"  width="200" >
 </img>
+<br>
 
 <h3>Go to Your Android Manifesto File......</h3>
-<br>
+
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/1.jpeg?raw=true"  width="200" >
 </img>
+<br>
 
 <h3>You will see Application tag there.....</h3>
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/application.jpeg?raw=true"  width="200" >
 </img>
+<br>
 
 <h3>Add the single line code...for the (error cleartext issue)....</h3>
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/added.jpeg?raw=true"  width="200" >
 </img>
+<br>
 
  <h3>And wollaaa!!! It work's......</h3> 
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563277098.png?raw=true"  width="200" >
