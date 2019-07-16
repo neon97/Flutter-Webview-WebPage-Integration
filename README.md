@@ -32,6 +32,7 @@ Just make a Check to the pubspec.yaml file what Packages you have to import.....
 <br>
 
 <h3>Add the single line code...for the (error cleartext issue)....</h3>
+<h4>android:usesCleartextTraffic="true"</h4>
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/added.jpeg?raw=true"  width="200" >
 </img>
 <br>
