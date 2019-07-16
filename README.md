@@ -15,13 +15,11 @@ Just make a Check to the pubspec.yaml file what Packages you have to import.....
 <br>
 
 <h3>Well if this problem occur's....</h3>
-<br>
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563276469.png?raw=true"  width="200" >
 </img>
 <br>
 
 <h3>Go to Your Android Manifesto File......</h3>
-
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/1.jpeg?raw=true"  width="200" >
 </img>
 <br>
