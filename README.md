@@ -12,10 +12,7 @@ Just make a Check to the pubspec.yaml file what Packages you have to import.....
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563277085.png?raw=true"  width="200" >
 </img>
 
-  <h3>WebView Page</h3> 
-<img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563277098.png?raw=true"  width="200" >
- 
-</img>
+
 
 Well if this problem occur's....
 <img src="https://github.com/neon97/Flutter-Webview-WebPage-Integration/blob/master/Screenshots/Screenshot_1563276469.png?raw=true"  width="200" >
